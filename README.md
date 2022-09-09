@@ -24,7 +24,8 @@
   </samp>
 </p>
 ------------
-inspiration from [Rayhan Pratama](https://github.com/rxyhn/ "Rayhan Pratama")
+
+Inspiration from [Rayhan Pratama](https://github.com/rxyhn/)
 
 
 </details>
