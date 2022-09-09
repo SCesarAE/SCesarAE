@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**SCesarAE/SCesarAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ##  hello world!
+  <p align="center">
+	<samp>
+	  <b>
+	  <br>
+        I am a programmer, trader and future data scientist.
+      </br>
+      </b>
+   <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I+use+arch+btw...">
+</samp>
+</p>
 
-Here are some ideas to get you started:
+<details>
+	<summary><samp><b>More Info</b></samp></summary>
+<!-- Contact Me -->
+------------
+<p align="center">
+  <samp>
+    [<a href="https://twitter.com/SCesarAE">twitter</a>]
+    [<a href="https://www.linkedin.com/in/scesarae/">linkedin.</a>]
+    [<a href="mailto:ca.salgadoescoto@gmail.com">e-mail</a>]
+  </samp>
+</p>
+------------
+inspiration from [Rayhan Pratama](https://github.com/rxyhn/ "Rayhan Pratama")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</details>
