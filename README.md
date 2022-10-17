@@ -5,7 +5,9 @@
 	<samp>
 	  <b>
 	  <br>
-        I am a programmer, trader and future data scientist.
+        I am a student and programer.
+	| Penguins & Appels |
+	Data Science | DevOps | IT Security
       </br>
       </b>
    <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I+use+arch+btw...">
