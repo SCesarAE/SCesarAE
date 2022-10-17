@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-  ##  hello world!
-  <p align="center">
-	<samp>
-	  <b>
-	  <br>
-        I am a student and programer.
-	| Penguins & Appels |
-	Data Science | DevOps | IT Security
-      </br>
-      </b>
-   <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I+use+arch+btw...">
+##  hello world!
+<samp>
+	<p align="center">
+	I am a student and programer. <br>
+	<b>| Penguins & Appels |  <br>
+	Data Science | DevOps | IT Security</b>
+	</p>
 </samp>
+
+<p align="center">
+<image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I+use+arch+btw...">
 </p>
+
 
 <details>
 	<summary><samp><b>More Info</b></samp></summary>
