@@ -5,7 +5,7 @@
 	<p align="center">
 	I am a student and programer. <br>
 	<b>| Penguins & Apples |  <br>
-	Data Science | DevOps | IT Security</b>
+	Data Science | DevOps | IT Security  <br>
 	Synthwave | Future Funk </b>
 	</p>
 </samp>
