@@ -4,8 +4,9 @@
 <samp>
 	<p align="center">
 	I am a student and programer. <br>
-	<b>| Penguins & Appels |  <br>
+	<b>| Penguins & Apples |  <br>
 	Data Science | DevOps | IT Security</b>
+	Synthwave | Future Funk </b>
 	</p>
 </samp>
 
